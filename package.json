@@ -1,7 +1,7 @@
 {
-  "name": "systemflow-b1-double-spend",
+  "name": "upi-double-spend-prevention-pipeline",
   "version": "1.0.0",
-  "description": "Compare-And-Swap (CAS) optimistic balance locking, strict idempotency key tracking, and compensating saga transactions.",
+  "description": "Compare-And-Swap (CAS) optimistic balance locking, strict idempotency key tracking, and compensating saga transactions for instant payments.",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "type": "module",
